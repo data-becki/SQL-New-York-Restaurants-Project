@@ -30,10 +30,10 @@ Let’s begin!
 
 11. Use a CASE statement to change the rating system to:
 
-    review > 4.5 is Extraordinary
-    review > 4 is Excellent
-    review > 3 is Good
-    review > 2 is Fair
-    Everything else is Poor
+        review > 4.5 is Extraordinary
+        review > 4 is Excellent
+        review > 3 is Good
+        review > 2 is Fair
+        Everything else is Poor
 
-Don’t forget to rename the new column!
+    Don’t forget to rename the new column!
